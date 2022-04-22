@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-07-21T19:47:33.034-0300</date>
+  <logger>VINICIUS SOUSA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 120110338-VINICIUS SOUSA AZEVEDO.zip was received. It was sent by VINICIUS SOUSA AZEVEDO from IP 10.10.250.55 at 21-07-2021 19*47*33</message>
+</record>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-15T14:10:47.511-0300</date>
+  <logger>VINICIUS SOUSA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 120110338-VINICIUS SOUSA AZEVEDO.zip was received. It was sent by VINICIUS SOUSA AZEVEDO from IP 25.8.25.49 at 15-09-2021 14*10*47</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-15T18:38:56.564-0300</date>
+  <logger>VINICIUS SOUSA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 120110338-VINICIUS SOUSA AZEVEDO.zip was received. It was sent by VINICIUS SOUSA AZEVEDO from IP 10.10.250.181 at 15-09-2021 18*38*56</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-16T11:02:28.255-0300</date>
+  <logger>VINICIUS SOUSA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 120110338-VINICIUS SOUSA AZEVEDO.zip was received. It was sent by VINICIUS SOUSA AZEVEDO from IP 25.8.25.49 at 16-09-2021 11*02*28</message>
+</record>

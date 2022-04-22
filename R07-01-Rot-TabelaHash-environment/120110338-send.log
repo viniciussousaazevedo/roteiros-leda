@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-01T16:21:45.017-0300</date>
+  <logger>VINICIUS SOUSA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 120110338-VINICIUS SOUSA AZEVEDO.zip was received. It was sent by VINICIUS SOUSA AZEVEDO from IP 192.168.0.112 at 01-09-2021 16*21*44</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-01T16:43:50.607-0300</date>
+  <logger>VINICIUS SOUSA AZEVEDO</logger>
+  <level>FINE</level>
+  <message>File 120110338-VINICIUS SOUSA AZEVEDO.zip was received. It was sent by VINICIUS SOUSA AZEVEDO from IP 192.168.0.112 at 01-09-2021 16*43*50</message>
+</record>
