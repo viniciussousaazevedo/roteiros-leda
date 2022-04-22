@@ -1,6 +1,7 @@
 # Roteiros Práticos - Laboratório de Estrutura de Dados e Algoritmos
- Este repositório contém os roteiros práticos da disciplina de Laboratório de Estruturas de Dados e Algoritmos, em Java.
+ Este repositório contém os roteiros práticos da disciplina de Laboratório de Estruturas de Dados e Algoritmos, em Java. A disciplina foi concluída no segundo semestre de 2021.
  
+ Breve descrição do conteúdo de cada roteiro:
  - RR1: Roteiro teste sobre recursão
  - R01: Roteiro de métodos simples de ordenação, como Bubble Sort e Selection Sort
  - R02: Roteiro de métodos recursivos, com Abstract Sorting, Merge Sort e Quick Sort
